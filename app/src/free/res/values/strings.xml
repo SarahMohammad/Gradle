@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Build it Bigger Free</string>
+    <string name="fire_base_banner_ad_app_id"></string>
+    <string name="fire_base_banner_ad_unit_id"></string>
+    <string name="fire_base_banner_test_ad_unit_id"></string>
+    <string name="fire_base_banner_test_international_ad_unit_id"></string>
+</resources>

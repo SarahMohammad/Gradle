@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768167535483",
+    "firebase_url": "https://finalprojectgradle-eca97.firebaseio.com",
+    "project_id": "finalprojectgradle-eca97",
+    "storage_bucket": "finalprojectgradle-eca97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768167535483:android:9f736eb9fc1e1319",
+        "android_client_info": {
+          "package_name": "com.udacity.gradle.builditbigger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768167535483-cemnsjf658q2fe6broqf5fm2u7jn5tb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.gradle.builditbigger",
+            "certificate_hash": "2b73de2dd51ee9edb68d221f0d7fbcb2b359740a"
+          }
+        },
+        {
+          "client_id": "768167535483-run8fiovv6crno9mqfdkm5kg7d56j416.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo5fOBALSAhC4WtkRy9se9mmzoSeFRXkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768167535483-run8fiovv6crno9mqfdkm5kg7d56j416.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
